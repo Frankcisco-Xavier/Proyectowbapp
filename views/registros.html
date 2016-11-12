@@ -1,0 +1,26 @@
+$def with(datos)
+<html>
+    <head></head>
+    <body>
+         <p><h3><center><a href="/index">Regresar</p></center></a>
+         <p><center><H1>APOYOS EN ESPECIE A PERSONAS FISICAS</h1></center></p>
+         <p><center><H1>MONTO OTORGADOS EN 2015</h1></center></p>
+
+                <table border="2px" bordercolor="blue" ALIGN=center>
+            <tr>
+                <td ><strong>N°</strong></td>
+                <td ><strong><center>Localidad/Municipio</strong></td>
+                <td ><strong><center>Estado</strong></td>
+                <td ><strong>Total Beneficiario</strong></td>
+                <td ><strong>Monto equivalente</strong></td>
+                </tr>
+            $ contador=0 
+            $for row in datos:
+            <tr>
+                <td>$contador<td>$row['FIELD2']<td>$row['FIELD3']<td>$row['FIELD4']<td>$row['FIELD5']</td></td></td></td></td>
+                $ contador += 1
+                </tr>
+    </body>
+</html>
+    
+     

@@ -1,0 +1,465 @@
+[
+ 
+ {
+   "APOYOS EN ESPECIE A PERSONAS FISICAS": "1",
+   "FIELD2": "Armeria",
+   "FIELD3": "Colima",
+   "FIELD4": "1",
+   "FIELD5": "5955.00"
+ },
+ {
+   "APOYOS EN ESPECIE A PERSONAS FISICAS": "2",
+   "FIELD2": "Colima",
+   "FIELD3": "Colima",
+   "FIELD4": "6",
+   "FIELD5": "44820.00"
+ },
+ {
+   "APOYOS EN ESPECIE A PERSONAS FISICAS": "3",
+   "FIELD2": "Comala",
+   "FIELD3": "Colima",
+   "FIELD4": "2",
+   "FIELD5": "11910.00"
+ },
+ {
+   "APOYOS EN ESPECIE A PERSONAS FISICAS": "4",
+   "FIELD2": "Tamazula",
+   "FIELD3": "Colima",
+   "FIELD4": "1",
+   "FIELD5": "10500.00"
+ },
+ {
+   "APOYOS EN ESPECIE A PERSONAS FISICAS": "5",
+   "FIELD2": "Tecoman",
+   "FIELD3": "Colima",
+   "FIELD4": "6",
+   "FIELD5": "45138.72"
+ },
+ {
+   "APOYOS EN ESPECIE A PERSONAS FISICAS": "6",
+   "FIELD2": "Alvaro Obregon",
+   "FIELD3": "Distrito Federal",
+   "FIELD4": "5",
+   "FIELD5": "42499.84"
+ },
+ {
+   "APOYOS EN ESPECIE A PERSONAS FISICAS": "7",
+   "FIELD2": "Azcapotzalco",
+   "FIELD3": "Distrito Federal",
+   "FIELD4": "2",
+   "FIELD5": "27506.00"
+ },
+ {
+   "APOYOS EN ESPECIE A PERSONAS FISICAS": "8",
+   "FIELD2": "Benito Juarez",
+   "FIELD3": "Distrito Federal",
+   "FIELD4": "9",
+   "FIELD5": "50592.60"
+ },
+ {
+   "APOYOS EN ESPECIE A PERSONAS FISICAS": "9",
+   "FIELD2": "Coyoacan",
+   "FIELD3": "Distrito Federal",
+   "FIELD4": "9",
+   "FIELD5": "103893.68"
+ },
+ {
+   "APOYOS EN ESPECIE A PERSONAS FISICAS": "10",
+   "FIELD2": "Cuauhtemoc",
+   "FIELD3": "Distrito Federal",
+   "FIELD4": "17",
+   "FIELD5": "123083.91"
+ },
+ {
+   "APOYOS EN ESPECIE A PERSONAS FISICAS": "11",
+   "FIELD2": "Gustavo A. Madero",
+   "FIELD3": "Distrito Federal",
+   "FIELD4": "5",
+   "FIELD5": "24193.00"
+ },
+ {
+   "APOYOS EN ESPECIE A PERSONAS FISICAS": "12",
+   "FIELD2": "Iztacalco",
+   "FIELD3": "Distrito Federal",
+   "FIELD4": "6",
+   "FIELD5": "16676.40"
+ },
+ {
+   "APOYOS EN ESPECIE A PERSONAS FISICAS": "13",
+   "FIELD2": "Iztapalapa",
+   "FIELD3": "Distrito Federal",
+   "FIELD4": "22",
+   "FIELD5": "188761.65"
+ },
+ {
+   "APOYOS EN ESPECIE A PERSONAS FISICAS": "14",
+   "FIELD2": "Magdalena Contreras",
+   "FIELD3": "Distrito Federal",
+   "FIELD4": "6",
+   "FIELD5": "59378.76"
+ },
+ {
+   "APOYOS EN ESPECIE A PERSONAS FISICAS": "15",
+   "FIELD2": "Milpa Alta",
+   "FIELD3": "Distrito Federal",
+   "FIELD4": "4",
+   "FIELD5": "42449.20"
+ },
+ {
+   "APOYOS EN ESPECIE A PERSONAS FISICAS": "16",
+   "FIELD2": "Tepetlaoxtoc",
+   "FIELD3": "Distrito Federal",
+   "FIELD4": "1",
+   "FIELD5": "10499.39"
+ },
+ {
+   "APOYOS EN ESPECIE A PERSONAS FISICAS": "17",
+   "FIELD2": "Tetipac",
+   "FIELD3": "Distrito Federal",
+   "FIELD4": "1",
+   "FIELD5": "2291.28"
+ },
+ {
+   "APOYOS EN ESPECIE A PERSONAS FISICAS": "18",
+   "FIELD2": "Tlahuac",
+   "FIELD3": "Distrito Federal",
+   "FIELD4": "2",
+   "FIELD5": "8917.28"
+ },
+ {
+   "APOYOS EN ESPECIE A PERSONAS FISICAS": "19",
+   "FIELD2": "Tlalnepantla",
+   "FIELD3": "Distrito Federal",
+   "FIELD4": "1",
+   "FIELD5": "3313.00"
+ },
+ {
+   "APOYOS EN ESPECIE A PERSONAS FISICAS": "20",
+   "FIELD2": "Tlalpan",
+   "FIELD3": "Distrito Federal",
+   "FIELD4": "55",
+   "FIELD5": "257613.91"
+ },
+ {
+   "APOYOS EN ESPECIE A PERSONAS FISICAS": "21",
+   "FIELD2": "Venustiano Carranza",
+   "FIELD3": "Distrito Federal",
+   "FIELD4": "54",
+   "FIELD5": "391888.36"
+ },
+ {
+   "APOYOS EN ESPECIE A PERSONAS FISICAS": "22",
+   "FIELD2": "Xochimilco",
+   "FIELD3": "Distrito Federal",
+   "FIELD4": "18",
+   "FIELD5": "54363.92"
+ },
+ {
+   "APOYOS EN ESPECIE A PERSONAS FISICAS": "23",
+   "FIELD2": "Canatlan",
+   "FIELD3": "Durango",
+   "FIELD4": "1",
+   "FIELD5": "3000.00"
+ },
+ {
+   "APOYOS EN ESPECIE A PERSONAS FISICAS": "24",
+   "FIELD2": "Gomez Palacio",
+   "FIELD3": "Durango",
+   "FIELD4": "17",
+   "FIELD5": "51000.00"
+ },
+ {
+   "APOYOS EN ESPECIE A PERSONAS FISICAS": "25",
+   "FIELD2": "Durango",
+   "FIELD3": "Durango",
+   "FIELD4": "92",
+   "FIELD5": "207237.96"
+ },
+ {
+   "APOYOS EN ESPECIE A PERSONAS FISICAS": "26",
+   "FIELD2": "Mapimi",
+   "FIELD3": "Durango",
+   "FIELD4": "1",
+   "FIELD5": "3000.00"
+ },
+ {
+   "APOYOS EN ESPECIE A PERSONAS FISICAS": "27",
+   "FIELD2": "Tlahualilo",
+   "FIELD3": "Durango",
+   "FIELD4": "1",
+   "FIELD5": "3000.00"
+ },
+ {
+   "APOYOS EN ESPECIE A PERSONAS FISICAS": "28",
+   "FIELD2": "Tomas Urbina",
+   "FIELD3": "Durango",
+   "FIELD4": "1",
+   "FIELD5": "3000.00"
+ },
+ {
+   "APOYOS EN ESPECIE A PERSONAS FISICAS": "29",
+   "FIELD2": "Atizapan de Zaragoza",
+   "FIELD3": "Estado de Mexico",
+   "FIELD4": "1",
+   "FIELD5": "7203.60"
+ },
+ {
+   "APOYOS EN ESPECIE A PERSONAS FISICAS": "30",
+   "FIELD2": "Chimalhuacan",
+   "FIELD3": "Estado de Mexico",
+   "FIELD4": "1",
+   "FIELD5": "29000.00"
+ },
+ {
+   "APOYOS EN ESPECIE A PERSONAS FISICAS": "31",
+   "FIELD2": "Cuatitlan Izcalli",
+   "FIELD3": "Estado de Mexico",
+   "FIELD4": "1",
+   "FIELD5": "2291.28"
+ },
+ {
+   "APOYOS EN ESPECIE A PERSONAS FISICAS": "32",
+   "FIELD2": "Ecatepec",
+   "FIELD3": "Estado de Mexico",
+   "FIELD4": "5",
+   "FIELD5": "115988.54"
+ },
+ {
+   "APOYOS EN ESPECIE A PERSONAS FISICAS": "33",
+   "FIELD2": "Ixtapaluca",
+   "FIELD3": "Estado de Mexico",
+   "FIELD4": "1",
+   "FIELD5": "6626.00"
+ },
+ {
+   "APOYOS EN ESPECIE A PERSONAS FISICAS": "34",
+   "FIELD2": "Lerma",
+   "FIELD3": "Estado de Mexico",
+   "FIELD4": "1",
+   "FIELD5": "10499.39"
+ },
+ {
+   "APOYOS EN ESPECIE A PERSONAS FISICAS": "35",
+   "FIELD2": "Metepec",
+   "FIELD3": "Estado de Mexico",
+   "FIELD4": "1",
+   "FIELD5": "2291.28"
+ },
+ {
+   "APOYOS EN ESPECIE A PERSONAS FISICAS": "36",
+   "FIELD2": "Naucalpan ",
+   "FIELD3": "Estado de Mexico",
+   "FIELD4": "4",
+   "FIELD5": "73139.39"
+ },
+ {
+   "APOYOS EN ESPECIE A PERSONAS FISICAS": "37",
+   "FIELD2": "Nezahualcoyotl",
+   "FIELD3": "Estado de Mexico",
+   "FIELD4": "4",
+   "FIELD5": "55687.36"
+ },
+ {
+   "APOYOS EN ESPECIE A PERSONAS FISICAS": "38",
+   "FIELD2": "Tianguistenco",
+   "FIELD3": "Estado de Mexico",
+   "FIELD4": "3",
+   "FIELD5": "12731.28"
+ },
+ {
+   "APOYOS EN ESPECIE A PERSONAS FISICAS": "39",
+   "FIELD2": "Tlanepantla",
+   "FIELD3": "Estado de Mexico",
+   "FIELD4": "1",
+   "FIELD5": "3313.00"
+ },
+ {
+   "APOYOS EN ESPECIE A PERSONAS FISICAS": "40",
+   "FIELD2": "Tolucha",
+   "FIELD3": "Estado de Mexico",
+   "FIELD4": "1",
+   "FIELD5": "5220.00"
+ },
+ {
+   "APOYOS EN ESPECIE A PERSONAS FISICAS": "41",
+   "FIELD2": "Tultepec",
+   "FIELD3": "Estado de Mexico",
+   "FIELD4": "3",
+   "FIELD5": "38582.99"
+ },
+ {
+   "APOYOS EN ESPECIE A PERSONAS FISICAS": "42",
+   "FIELD2": "Valle de Chalco",
+   "FIELD3": "Estado de Mexico",
+   "FIELD4": "2",
+   "FIELD5": "4582.56"
+ },
+ {
+   "APOYOS EN ESPECIE A PERSONAS FISICAS": "43",
+   "FIELD2": "Villaflores",
+   "FIELD3": "Estado de Mexico",
+   "FIELD4": "1",
+   "FIELD5": "69600.00"
+ },
+ {
+   "APOYOS EN ESPECIE A PERSONAS FISICAS": "44",
+   "FIELD2": "Chilpancingo",
+   "FIELD3": "Guerrero",
+   "FIELD4": "1",
+   "FIELD5": "2291.28"
+ },
+ {
+   "APOYOS EN ESPECIE A PERSONAS FISICAS": "45",
+   "FIELD2": "Atlapexco",
+   "FIELD3": "Hidalgo",
+   "FIELD4": "1",
+   "FIELD5": "2291.28"
+ },
+ {
+   "APOYOS EN ESPECIE A PERSONAS FISICAS": "46",
+   "FIELD2": "Hidalgo",
+   "FIELD3": "Hidalgo",
+   "FIELD4": "1",
+   "FIELD5": "2291.28"
+ },
+ {
+   "APOYOS EN ESPECIE A PERSONAS FISICAS": "47",
+   "FIELD2": "Nopala",
+   "FIELD3": "Hidalgo",
+   "FIELD4": "1",
+   "FIELD5": "23977.20"
+ },
+ {
+   "APOYOS EN ESPECIE A PERSONAS FISICAS": "48",
+   "FIELD2": "San Miguel El Alto",
+   "FIELD3": "Jalisco",
+   "FIELD4": "1",
+   "FIELD5": "2291.28"
+ },
+ {
+   "APOYOS EN ESPECIE A PERSONAS FISICAS": "49",
+   "FIELD2": "Contepec",
+   "FIELD3": "Michoacan",
+   "FIELD4": "1",
+   "FIELD5": "20880.00"
+ },
+ {
+   "APOYOS EN ESPECIE A PERSONAS FISICAS": "50",
+   "FIELD2": "Morelia",
+   "FIELD3": "Michoacan",
+   "FIELD4": "1",
+   "FIELD5": "6114.36"
+ },
+ {
+   "APOYOS EN ESPECIE A PERSONAS FISICAS": "51",
+   "FIELD2": "Nocupetaro",
+   "FIELD3": "Michoacan",
+   "FIELD4": "1",
+   "FIELD5": "2291.28"
+ },
+ {
+   "APOYOS EN ESPECIE A PERSONAS FISICAS": "52",
+   "FIELD2": "Zamora",
+   "FIELD3": "Michoacan",
+   "FIELD4": "1",
+   "FIELD5": "6626.00"
+ },
+ {
+   "APOYOS EN ESPECIE A PERSONAS FISICAS": "53",
+   "FIELD2": "Cuernavaca",
+   "FIELD3": "Morelos",
+   "FIELD4": "2",
+   "FIELD5": "56357.07"
+ },
+ {
+   "APOYOS EN ESPECIE A PERSONAS FISICAS": "54",
+   "FIELD2": "Emiliano Zapata",
+   "FIELD3": "Morelos",
+   "FIELD4": "1",
+   "FIELD5": "2291.28"
+ },
+ {
+   "APOYOS EN ESPECIE A PERSONAS FISICAS": "55",
+   "FIELD2": "San Juan BautistaTuxtepec",
+   "FIELD3": "Oaxaca",
+   "FIELD4": "2",
+   "FIELD5": "58000.00"
+ },
+ {
+   "APOYOS EN ESPECIE A PERSONAS FISICAS": "56",
+   "FIELD2": "Cholula",
+   "FIELD3": "Puebla",
+   "FIELD4": "2",
+   "FIELD5": "46400.00"
+ },
+ {
+   "APOYOS EN ESPECIE A PERSONAS FISICAS": "57",
+   "FIELD2": "Sta. Rita Tlahuacan",
+   "FIELD3": "Puebla",
+   "FIELD4": "1",
+   "FIELD5": "23977.20"
+ },
+ {
+   "APOYOS EN ESPECIE A PERSONAS FISICAS": "58",
+   "FIELD2": "Tlatlauquitepec",
+   "FIELD3": "Puebla",
+   "FIELD4": "1",
+   "FIELD5": "6626.00"
+ },
+ {
+   "APOYOS EN ESPECIE A PERSONAS FISICAS": "59",
+   "FIELD2": "Xicotepec",
+   "FIELD3": "Puebla",
+   "FIELD4": "1",
+   "FIELD5": "85309.88"
+ },
+ {
+   "APOYOS EN ESPECIE A PERSONAS FISICAS": "60",
+   "FIELD2": "Zacatlan",
+   "FIELD3": "Puebla",
+   "FIELD4": "1",
+   "FIELD5": "2291.28"
+ },
+ {
+   "APOYOS EN ESPECIE A PERSONAS FISICAS": "61",
+   "FIELD2": "Queretaro",
+   "FIELD3": "Queretaro",
+   "FIELD4": "4",
+   "FIELD5": "37492.20"
+ },
+ {
+   "APOYOS EN ESPECIE A PERSONAS FISICAS": "62",
+   "FIELD2": "Chetumal",
+   "FIELD3": "Quintana Roo",
+   "FIELD4": "5",
+   "FIELD5": "36018.00"
+ },
+ {
+   "APOYOS EN ESPECIE A PERSONAS FISICAS": "63",
+   "FIELD2": "Culiacan",
+   "FIELD3": "Sinaloa",
+   "FIELD4": "2",
+   "FIELD5": "12228.72"
+ },
+ {
+   "APOYOS EN ESPECIE A PERSONAS FISICAS": "64",
+   "FIELD2": "Hermosillo",
+   "FIELD3": "Sonora",
+   "FIELD4": "2",
+   "FIELD5": "12228.72"
+ },
+ {
+   "APOYOS EN ESPECIE A PERSONAS FISICAS": "65",
+   "FIELD2": "Teapa",
+   "FIELD3": "Tabasco",
+   "FIELD4": "1",
+   "FIELD5": "14407.20"
+ },
+ {
+   "APOYOS EN ESPECIE A PERSONAS FISICAS": "66",
+   "FIELD2": "Fresnillo",
+   "FIELD3": "Zacatecas",
+   "FIELD4": "1",
+   "FIELD5": "2291.28"
+ }
+]
